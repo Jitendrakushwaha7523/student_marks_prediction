@@ -1,0 +1,17 @@
+{
+  "best": "Linear Regression",
+  "results": {
+    "Linear Regression": {
+      "MAE": 2.35,
+      "R2": 0.924
+    },
+    "Random Forest": {
+      "MAE": 2.93,
+      "R2": 0.886
+    },
+    "Gradient Boosting": {
+      "MAE": 2.63,
+      "R2": 0.908
+    }
+  }
+}
